@@ -1,0 +1,1 @@
+export{runABTest}from"./tester.js";export type{Variant,ABResult,ABConfig}from"./types.js";
